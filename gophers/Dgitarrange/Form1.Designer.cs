@@ -141,7 +141,7 @@
             this.Controls.Add(this.lblscore);
             this.Controls.Add(this.btnstart);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "打地鼠";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
